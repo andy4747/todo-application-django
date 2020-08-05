@@ -10,9 +10,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-- python3.6 or above
-- django==3.0.8
-- djangorestframework==3.11.0
+- python3
+- django
+- djangorestframework
 
 ### Installing
 
